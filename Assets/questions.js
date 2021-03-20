@@ -30,3 +30,11 @@ const currentTime = document.querySelector("#currentTime");
 const timer = document.querySelector("#startTime");
 const questionsDiv = document.querySelector("#questionsDiv");
 const wrapper = document.querySelector("#wrapper");
+
+const secondsLeft = 76;
+// Holds interval time
+const holdInterval = 0;
+// Holds penalty time
+const penalty = 10;
+// Creates new element
+const ulCreate = document.createElement("ul");
