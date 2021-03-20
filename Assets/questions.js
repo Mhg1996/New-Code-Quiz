@@ -22,3 +22,11 @@ const Questions = [
         answer: "parentheses",
     },
 ];
+
+const score = 0;
+const questionIndex = 0;
+
+const currentTime = document.querySelector("#currentTime");
+const timer = document.querySelector("#startTime");
+const questionsDiv = document.querySelector("#questionsDiv");
+const wrapper = document.querySelector("#wrapper");
