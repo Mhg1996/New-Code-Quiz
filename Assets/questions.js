@@ -17,6 +17,8 @@ const Questions = [
         choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
         answer: "all of the above",
 
-        
+        title: "The condition in an if / else statement is enclosed within ____.",
+        choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
+        answer: "parentheses",
     },
 ];
